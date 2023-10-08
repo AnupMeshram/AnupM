@@ -1,7 +1,7 @@
 
 ### Hi, I'm Anup 👋
 
-I'm a Data Analyst, who is passionate about data generated insights and tools.
+I'm a Data and Business Intelligence Analyst, who is passionate about data generated insights and tools.
 
 #### ⚒️ Skills and Technologies
 
