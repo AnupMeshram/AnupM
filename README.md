@@ -13,6 +13,12 @@ I'm a Data Analyst, who is passionate about data generated insights and tools.
 • IDE: Jupyter Notebook, Visual Studio, Pycharm
 • Spreadsheet: Excel
 
+## 📚 Table of Contents
+- [Data Engineering](#data-engineering)
+- [SQL](#sql)
+- [Python](#python)
+- [Tableau](#tableau)
+- [Katie's Guides](#katies-guides)
 
 #### 📫 Connect 
 Reach me on: <a href="https://www.linkedin.com/in/anup-meshram/">LinkedIn</a> or anuponwork@gmail.com
