@@ -1,4 +1,4 @@
-[business-intelligence-w9ypvz7h4dwzk51e.jpg]
+![business-intelligence-w9ypvz7h4dwzk51e.jpg]
 ### Hi, I'm Anup 👋
 
 I'm a Data and Business Intelligence Analyst, who is passionate about data generated insights and tools.
