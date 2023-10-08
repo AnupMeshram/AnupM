@@ -18,3 +18,4 @@ I'm a Data Analyst, who is passionate about data generated insights and tools.
 - [Email](anuponwork@gmail.com)
 
 
+- dhavalpatel244@gmail.com
