@@ -14,5 +14,10 @@ I'm a Data Analyst, who is passionate about data generated insights and tools.
 • IDE: Jupyter Notebook, Visual Studio, Pycharm
 • Spreadsheet: Excel
 
+
+Language: SQL, Python
+Database: Google BigQuery, PostgreSQL, MySQL
+Visualization: Tableau, Looker Studio
+
 #### 📫 Connect 
 Reach me on: <a href="https://www.linkedin.com/in/anup-meshram/">LinkedIn</a> or anuponwork@gmail.com
