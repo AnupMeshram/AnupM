@@ -14,7 +14,7 @@ I'm a Data Analyst, who is passionate about data generated insights and tools.
 • Spreadsheet: Excel
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
+- [Data Engineering]
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
