@@ -15,7 +15,7 @@ I'm a Data Analyst, who is passionate about data generated insights and tools.
 #### 📫 Connect 
 
 - [Linkedin](https://www.linkedin.com/in/anup-meshram/)
-- [Email](anuponwork@gmail.com)
+- [Email] (anuponwork@gmail.com)
 
 
 
