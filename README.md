@@ -1,4 +1,4 @@
-!(https://github.com/AnupMeshram/AnupMeshram/blob/b63c22dee1f3441a374700c2933596b241102f14/business-intelligence-w9ypvz7h4dwzk51e.jpg))
+![a](https://github.com/AnupMeshram/AnupMeshram/blob/b63c22dee1f3441a374700c2933596b241102f14/business-intelligence-w9ypvz7h4dwzk51e.jpg))
 ### Hi, I'm Anup 👋
 
 I'm a Data and Business Intelligence Analyst, who is passionate about data generated insights and tools.
