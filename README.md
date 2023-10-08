@@ -3,7 +3,7 @@
 
 #### I'm a Data Analyst, who is passionate about data generated insights and tools.
 
-#### Skills and Technologies
+#### ⚒️ Skills and Technologies
 
 • Language: SQL, Python (Intermediate)
 • Database: MySQL, Postgres, MS SQL Server
